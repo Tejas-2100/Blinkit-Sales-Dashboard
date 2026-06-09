@@ -28,4 +28,5 @@ Dashboard storytelling
 Creating user-friendly and interactive reports
 Show what the dashboard look like:- 
 I am continuously improving my skills in Power BI, Advanced Excel, SQL, Python, and Data Analytics and looking forward to building more impactful projects.
+Example :- https://github.com/Tejas-2100/Blinkit-Sales-Dashboard/blob/main/Blinkit%20Dashboard.png
 #PowerBI #DataAnalytics #BusinessIntelligence #DashboardDesign #DataVisualization #RetailAnalytics #Blinkit #SQL #Python #Excel #DAX #Analytics #LearningJourney #DataAnalyst #PowerBIProject
